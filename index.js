@@ -22,7 +22,5 @@ function generateInvoice(invoice){
     for(let index in invoice.products){
         let [productName, productPrice] = invoice.products[index]
         console.log(`- ${productName}: R$${productPrice}`)
-
-
     }
 }
