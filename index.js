@@ -1,5 +1,4 @@
-//JSON - Javascript  Object Notation
-
+//JSON - Javascript Object Notation
 
 let invoice = {
     name: "Matheus Alcantara de Paula",
